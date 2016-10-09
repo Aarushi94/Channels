@@ -1,0 +1,13 @@
+#channels{
+  background-color: orange;  
+  overflow-y: scroll;
+  height: 100em;
+}
+#chat{
+  top: 0px;
+  bottom: 0
+}
+#inputMessage{
+  width: 70%;
+
+}
